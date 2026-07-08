@@ -20,7 +20,6 @@ My interests currently revolve around:
 
 ```text
 → AberaCMS
-→ NESSIEv2
 → FurMOD
 ```
 
